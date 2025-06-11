@@ -1,0 +1,2 @@
+# bithumb
+auto_trading
